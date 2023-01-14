@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhranny
 - 👀 I’m interested in projects that involve java
-- 🌱 I’m currently learning and builbing my experience on Spring framework
+- 🌱 I’m currently learning and building my experience on Spring framework
 - 💞️ I’m looking to collaborate on projects that involve android or spring boot
 - 📫 can reach me on twitter with @dhrannyA
 
